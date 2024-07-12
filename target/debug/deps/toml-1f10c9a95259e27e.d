@@ -1,0 +1,13 @@
+/Users/adamcolvin/Documents/Rust/rustlings/target/debug/deps/libtoml-1f10c9a95259e27e.rmeta: /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/lib.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/map.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/value.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/de.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/ser.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/macros.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/edit.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/fmt.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/table.rs
+
+/Users/adamcolvin/Documents/Rust/rustlings/target/debug/deps/toml-1f10c9a95259e27e.d: /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/lib.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/map.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/value.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/de.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/ser.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/macros.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/edit.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/fmt.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/table.rs
+
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/lib.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/map.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/value.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/de.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/ser.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/macros.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/edit.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/fmt.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.7.8/src/table.rs:

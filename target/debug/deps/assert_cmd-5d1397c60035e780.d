@@ -1,0 +1,11 @@
+/Users/adamcolvin/Documents/Rust/rustlings/target/debug/deps/libassert_cmd-5d1397c60035e780.rmeta: /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/lib.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/assert.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cargo.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cmd.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/output.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/color.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/../README.md
+
+/Users/adamcolvin/Documents/Rust/rustlings/target/debug/deps/assert_cmd-5d1397c60035e780.d: /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/lib.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/assert.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cargo.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cmd.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/output.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/color.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/../README.md
+
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/lib.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/assert.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cargo.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cmd.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/output.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/color.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/../README.md:

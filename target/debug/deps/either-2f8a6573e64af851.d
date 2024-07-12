@@ -1,0 +1,7 @@
+/Users/adamcolvin/Documents/Rust/rustlings/target/debug/deps/libeither-2f8a6573e64af851.rmeta: /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.9.0/src/lib.rs
+
+/Users/adamcolvin/Documents/Rust/rustlings/target/debug/deps/libeither-2f8a6573e64af851.rlib: /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.9.0/src/lib.rs
+
+/Users/adamcolvin/Documents/Rust/rustlings/target/debug/deps/either-2f8a6573e64af851.d: /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.9.0/src/lib.rs
+
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.9.0/src/lib.rs:

@@ -1,0 +1,11 @@
+/Users/adamcolvin/Documents/Rust/rustlings/target/debug/deps/libconsole-f32c9c68e3f53e3c.rmeta: /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs
+
+/Users/adamcolvin/Documents/Rust/rustlings/target/debug/deps/console-f32c9c68e3f53e3c.d: /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs /Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs
+
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs:
+/Users/adamcolvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs:
